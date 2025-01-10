@@ -8,4 +8,4 @@ The examples are my solutions of the exercises. They are not the same as the sol
 
 Note 2:
 
-The code is working on the course platform/site. Most of time it will not work directly copied locally to your machines.
+The code is working on the course platform/site. Most of time it might/will not work directly copied locally to your machines.
