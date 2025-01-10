@@ -1,4 +1,4 @@
-# BuildingAI_course
+# Building AI course
 Course for Building of AI
 
 **Note 1:
