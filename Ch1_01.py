@@ -1,16 +1,10 @@
 # you can define your own functions
-#def greetings(name, catch_phrase):
-#    print("Welcome " + name + catch_phrase + "!")
+def greet(name):
+    print("Welcome " + name + "!")
 
-def greet(catch_phrase):
-    print("Welcome " + catch_phrase + "!")
-
-# go ahead and enter your own name in variable 'name' below to get a warm welcome from us.
-
+# to pass the test, you should change the name to "to Building AI" (note the word 'to')
 def main():
-    name = "Tsvetan "
-    catch_phrase = "to Building AI"
-#    greetings(name, catch_phrase)
-    greet(catch_phrase)
+    name = "to Building AI"
+    greet(name)
 
 main()
