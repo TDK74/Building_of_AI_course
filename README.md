@@ -1,6 +1,9 @@
 # Building of AI course
 
 Course for Building of AI
+If you are interested in AI, you'd better subscribe to the course. It is free of charge and it is fun. :)
+
+Also, you'll know the instructions/conditions of the exercises in this way.
 
 Note 1:
 
