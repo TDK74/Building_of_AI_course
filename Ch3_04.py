@@ -1,7 +1,7 @@
 import random
 
-def main():
 
+def main():
     rdm = random.random()
     # print(rdm)
 
