@@ -1,6 +1,9 @@
 # Building of AI course
 
 Course for Building of AI
+
+https://buildingai.elementsofai.com/
+
 If you are interested in AI, you'd better subscribe to the course. It is free of charge and it is fun. :)
 
 Also, you'll know the instructions/conditions of the exercises in this way.
@@ -11,4 +14,4 @@ The examples are my solutions of the exercises. They are not the same as the sol
 
 Note 2:
 
-The code is working on the course platform/site. Most of time it might/will not work directly copied to your local machines.
+The code is working on the course platform/site. It might not work directly copied to your local machines.
