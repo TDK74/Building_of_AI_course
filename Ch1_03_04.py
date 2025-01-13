@@ -3,7 +3,6 @@ import random
 
 def main():
     rdm = random.random()
-    # print(rdm)
 
     if rdm < 0.8:           # 80% for dogs
         favourite = "dogs"
