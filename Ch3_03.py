@@ -1,11 +1,13 @@
 import math, random         # just for generating random mountains                                   
 import numpy as np
 
+
 n = 10000 # size of the problem: number of possible solutions x = 0, ..., n-1
 
 # generate random mountains                                                                                  
 def mountains(n):
     h = [0] * n
+    
     for i in range(50):
         c = random.randint(20, n - 20)
         w = random.randint(3, int(math.sqrt(n / 5))) ** 2
@@ -32,6 +34,7 @@ steps = 5000
 
 def main(h, x):
     n = len(h)
+    
     # the climbing starts here
     for step in range(steps):
         # this is our temperature to to be used for simulated annealing
